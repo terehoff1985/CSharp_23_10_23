@@ -1,0 +1,15 @@
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task_024\bin\Debug\net7.0\Task_024.exe
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task_024\bin\Debug\net7.0\Task_024.deps.json
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task_024\bin\Debug\net7.0\Task_024.runtimeconfig.json
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task_024\bin\Debug\net7.0\Task_024.dll
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task_024\bin\Debug\net7.0\Task_024.pdb
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task_024\obj\Debug\net7.0\Task_024.csproj.AssemblyReference.cache
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task_024\obj\Debug\net7.0\Task_024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task_024\obj\Debug\net7.0\Task_024.AssemblyInfoInputs.cache
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task_024\obj\Debug\net7.0\Task_024.AssemblyInfo.cs
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task_024\obj\Debug\net7.0\Task_024.csproj.CoreCompileInputs.cache
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task_024\obj\Debug\net7.0\Task_024.dll
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task_024\obj\Debug\net7.0\refint\Task_024.dll
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task_024\obj\Debug\net7.0\Task_024.pdb
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task_024\obj\Debug\net7.0\Task_024.genruntimeconfig.cache
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task_024\obj\Debug\net7.0\ref\Task_024.dll
