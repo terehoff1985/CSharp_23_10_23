@@ -1,0 +1,15 @@
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task_029_Массив_8_элементов\bin\Debug\net7.0\Task_029_Массив_8_элементов.exe
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task_029_Массив_8_элементов\bin\Debug\net7.0\Task_029_Массив_8_элементов.deps.json
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task_029_Массив_8_элементов\bin\Debug\net7.0\Task_029_Массив_8_элементов.runtimeconfig.json
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task_029_Массив_8_элементов\bin\Debug\net7.0\Task_029_Массив_8_элементов.dll
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task_029_Массив_8_элементов\bin\Debug\net7.0\Task_029_Массив_8_элементов.pdb
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task_029_Массив_8_элементов\obj\Debug\net7.0\Task_029_Массив_8_элементов.csproj.AssemblyReference.cache
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task_029_Массив_8_элементов\obj\Debug\net7.0\Task_029_Массив_8_элементов.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task_029_Массив_8_элементов\obj\Debug\net7.0\Task_029_Массив_8_элементов.AssemblyInfoInputs.cache
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task_029_Массив_8_элементов\obj\Debug\net7.0\Task_029_Массив_8_элементов.AssemblyInfo.cs
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task_029_Массив_8_элементов\obj\Debug\net7.0\Task_029_Массив_8_элементов.csproj.CoreCompileInputs.cache
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task_029_Массив_8_элементов\obj\Debug\net7.0\Task_029_Массив_8_элементов.dll
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task_029_Массив_8_элементов\obj\Debug\net7.0\refint\Task_029_Массив_8_элементов.dll
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task_029_Массив_8_элементов\obj\Debug\net7.0\Task_029_Массив_8_элементов.pdb
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task_029_Массив_8_элементов\obj\Debug\net7.0\Task_029_Массив_8_элементов.genruntimeconfig.cache
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task_029_Массив_8_элементов\obj\Debug\net7.0\ref\Task_029_Массив_8_элементов.dll
