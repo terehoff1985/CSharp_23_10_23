@@ -1,24 +1,45 @@
 ﻿/* Напишите программу, которая задаёт массив из 8 элементов
  и выводит их на экран. */
 
-
-
-
-
-    Console.Clear();   
-    int[] result = new int[8];
-    MyArrayElements(result);
-    Console.WriteLine("Введенные элементы массива: ");
-    Array.ForEach(result, item => Console.WriteLine(item)); //Это лямбда-выражение представляет операцию, которая будет выполнена для каждого элемента массива
-
-
-    static void MyArrayElements(int[] arr)
+class Program
+{
+    static void Main(string[] args)
     {
-        Console.WriteLine("Введите 8 элементов массива:");
+        int length = PrintMyMassive("Количество элементов массива: ");
+        int[] array = MyArrayElements(length);
+        PrintMyMassive(array);
+    }
 
-        for (int i = 0; i < 8; i++)
+    static int PrintMyMassive(string message)
+    {
+        Console.Clear();
+        Console.WriteLine(message);
+        int result = int.Parse(Console.ReadLine());
+        return result;
+    }
+
+    static int[] MyArrayElements(int length)
+    {
+        Console.WriteLine("Введите {0} элементов массива:", length);
+        int[] arr = new int[length];
+
+        for (int i = 0; i < length; i++)
         {
             Console.Write($"Элемент {i + 1}: ");
             arr[i] = Convert.ToInt32(Console.ReadLine());
         }
+
+        return arr;
     }
+
+    static void PrintMyMassive(int[] arr)
+    {
+        Console.WriteLine("Массив:");
+
+        for (int i = 0; i < arr.Length; i++)
+        {
+            Console.Write(arr[i]);
+            Console.Write(", ");
+        }
+    }
+}

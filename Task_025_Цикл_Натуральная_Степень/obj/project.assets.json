@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\asus.DESKTOP-C76C6GO\\Desktop\\Geekbrains\\ДЗ\\С#_23_10_2023\\Task_024\\Task_024.csproj",
+      "projectUniqueName": "C:\\Users\\asus.DESKTOP-C76C6GO\\Desktop\\Geekbrains\\ДЗ\\С#_23_10_2023\\Task_025_Цикл_Натуральная_Степень\\Task_024.csproj",
       "projectName": "Task_024",
-      "projectPath": "C:\\Users\\asus.DESKTOP-C76C6GO\\Desktop\\Geekbrains\\ДЗ\\С#_23_10_2023\\Task_024\\Task_024.csproj",
+      "projectPath": "C:\\Users\\asus.DESKTOP-C76C6GO\\Desktop\\Geekbrains\\ДЗ\\С#_23_10_2023\\Task_025_Цикл_Натуральная_Степень\\Task_024.csproj",
       "packagesPath": "C:\\Users\\asus.DESKTOP-C76C6GO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\asus.DESKTOP-C76C6GO\\Desktop\\Geekbrains\\ДЗ\\С#_23_10_2023\\Task_024\\obj\\",
+      "outputPath": "C:\\Users\\asus.DESKTOP-C76C6GO\\Desktop\\Geekbrains\\ДЗ\\С#_23_10_2023\\Task_025_Цикл_Натуральная_Степень\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

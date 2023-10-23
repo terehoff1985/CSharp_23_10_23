@@ -1,0 +1,15 @@
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Целые_трехзначные_чила_Ф\obj\Debug\net7.0\Целые_трехзначные_чила_Ф.csproj.AssemblyReference.cache
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Целые_трехзначные_чила_Ф\obj\Debug\net7.0\Целые_трехзначные_чила_Ф.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Целые_трехзначные_чила_Ф\obj\Debug\net7.0\Целые_трехзначные_чила_Ф.AssemblyInfoInputs.cache
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Целые_трехзначные_чила_Ф\obj\Debug\net7.0\Целые_трехзначные_чила_Ф.AssemblyInfo.cs
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Целые_трехзначные_чила_Ф\obj\Debug\net7.0\Целые_трехзначные_чила_Ф.csproj.CoreCompileInputs.cache
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Целые_трехзначные_чила_Ф\bin\Debug\net7.0\Целые_трехзначные_чила_Ф.exe
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Целые_трехзначные_чила_Ф\bin\Debug\net7.0\Целые_трехзначные_чила_Ф.deps.json
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Целые_трехзначные_чила_Ф\bin\Debug\net7.0\Целые_трехзначные_чила_Ф.runtimeconfig.json
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Целые_трехзначные_чила_Ф\bin\Debug\net7.0\Целые_трехзначные_чила_Ф.dll
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Целые_трехзначные_чила_Ф\bin\Debug\net7.0\Целые_трехзначные_чила_Ф.pdb
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Целые_трехзначные_чила_Ф\obj\Debug\net7.0\Целые_трехзначные_чила_Ф.dll
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Целые_трехзначные_чила_Ф\obj\Debug\net7.0\refint\Целые_трехзначные_чила_Ф.dll
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Целые_трехзначные_чила_Ф\obj\Debug\net7.0\Целые_трехзначные_чила_Ф.pdb
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Целые_трехзначные_чила_Ф\obj\Debug\net7.0\Целые_трехзначные_чила_Ф.genruntimeconfig.cache
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Целые_трехзначные_чила_Ф\obj\Debug\net7.0\ref\Целые_трехзначные_чила_Ф.dll

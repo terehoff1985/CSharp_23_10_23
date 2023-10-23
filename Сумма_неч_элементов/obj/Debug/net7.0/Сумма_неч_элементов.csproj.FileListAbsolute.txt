@@ -1,0 +1,15 @@
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Сумма_неч_элементов\bin\Debug\net7.0\Сумма_неч_элементов.exe
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Сумма_неч_элементов\bin\Debug\net7.0\Сумма_неч_элементов.deps.json
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Сумма_неч_элементов\bin\Debug\net7.0\Сумма_неч_элементов.runtimeconfig.json
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Сумма_неч_элементов\bin\Debug\net7.0\Сумма_неч_элементов.dll
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Сумма_неч_элементов\bin\Debug\net7.0\Сумма_неч_элементов.pdb
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Сумма_неч_элементов\obj\Debug\net7.0\Сумма_неч_элементов.csproj.AssemblyReference.cache
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Сумма_неч_элементов\obj\Debug\net7.0\Сумма_неч_элементов.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Сумма_неч_элементов\obj\Debug\net7.0\Сумма_неч_элементов.AssemblyInfoInputs.cache
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Сумма_неч_элементов\obj\Debug\net7.0\Сумма_неч_элементов.AssemblyInfo.cs
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Сумма_неч_элементов\obj\Debug\net7.0\Сумма_неч_элементов.csproj.CoreCompileInputs.cache
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Сумма_неч_элементов\obj\Debug\net7.0\Сумма_неч_элементов.dll
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Сумма_неч_элементов\obj\Debug\net7.0\refint\Сумма_неч_элементов.dll
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Сумма_неч_элементов\obj\Debug\net7.0\Сумма_неч_элементов.pdb
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Сумма_неч_элементов\obj\Debug\net7.0\Сумма_неч_элементов.genruntimeconfig.cache
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Сумма_неч_элементов\obj\Debug\net7.0\ref\Сумма_неч_элементов.dll
