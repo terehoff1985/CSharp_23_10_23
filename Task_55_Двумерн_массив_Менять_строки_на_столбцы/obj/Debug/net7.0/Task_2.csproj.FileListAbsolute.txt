@@ -1,0 +1,15 @@
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task_55_Двумерн_массив_Менять_строки_на_столбцы\bin\Debug\net7.0\Task_2.exe
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task_55_Двумерн_массив_Менять_строки_на_столбцы\bin\Debug\net7.0\Task_2.deps.json
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task_55_Двумерн_массив_Менять_строки_на_столбцы\bin\Debug\net7.0\Task_2.runtimeconfig.json
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task_55_Двумерн_массив_Менять_строки_на_столбцы\bin\Debug\net7.0\Task_2.dll
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task_55_Двумерн_массив_Менять_строки_на_столбцы\bin\Debug\net7.0\Task_2.pdb
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task_55_Двумерн_массив_Менять_строки_на_столбцы\obj\Debug\net7.0\Task_2.csproj.AssemblyReference.cache
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task_55_Двумерн_массив_Менять_строки_на_столбцы\obj\Debug\net7.0\Task_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task_55_Двумерн_массив_Менять_строки_на_столбцы\obj\Debug\net7.0\Task_2.AssemblyInfoInputs.cache
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task_55_Двумерн_массив_Менять_строки_на_столбцы\obj\Debug\net7.0\Task_2.AssemblyInfo.cs
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task_55_Двумерн_массив_Менять_строки_на_столбцы\obj\Debug\net7.0\Task_2.csproj.CoreCompileInputs.cache
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task_55_Двумерн_массив_Менять_строки_на_столбцы\obj\Debug\net7.0\Task_2.dll
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task_55_Двумерн_массив_Менять_строки_на_столбцы\obj\Debug\net7.0\refint\Task_2.dll
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task_55_Двумерн_массив_Менять_строки_на_столбцы\obj\Debug\net7.0\Task_2.pdb
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task_55_Двумерн_массив_Менять_строки_на_столбцы\obj\Debug\net7.0\Task_2.genruntimeconfig.cache
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task_55_Двумерн_массив_Менять_строки_на_столбцы\obj\Debug\net7.0\ref\Task_2.dll

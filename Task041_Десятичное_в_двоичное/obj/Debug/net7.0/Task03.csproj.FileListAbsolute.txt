@@ -1,0 +1,15 @@
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task041_Десятичное_в_двоичное\bin\Debug\net7.0\Task03.exe
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task041_Десятичное_в_двоичное\bin\Debug\net7.0\Task03.deps.json
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task041_Десятичное_в_двоичное\bin\Debug\net7.0\Task03.runtimeconfig.json
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task041_Десятичное_в_двоичное\bin\Debug\net7.0\Task03.dll
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task041_Десятичное_в_двоичное\bin\Debug\net7.0\Task03.pdb
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task041_Десятичное_в_двоичное\obj\Debug\net7.0\Task03.csproj.AssemblyReference.cache
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task041_Десятичное_в_двоичное\obj\Debug\net7.0\Task03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task041_Десятичное_в_двоичное\obj\Debug\net7.0\Task03.AssemblyInfoInputs.cache
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task041_Десятичное_в_двоичное\obj\Debug\net7.0\Task03.AssemblyInfo.cs
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task041_Десятичное_в_двоичное\obj\Debug\net7.0\Task03.csproj.CoreCompileInputs.cache
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task041_Десятичное_в_двоичное\obj\Debug\net7.0\Task03.dll
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task041_Десятичное_в_двоичное\obj\Debug\net7.0\refint\Task03.dll
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task041_Десятичное_в_двоичное\obj\Debug\net7.0\Task03.pdb
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task041_Десятичное_в_двоичное\obj\Debug\net7.0\Task03.genruntimeconfig.cache
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task041_Десятичное_в_двоичное\obj\Debug\net7.0\ref\Task03.dll

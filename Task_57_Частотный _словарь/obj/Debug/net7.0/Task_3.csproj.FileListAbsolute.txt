@@ -1,0 +1,15 @@
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task_57_Частотный _словарь\obj\Debug\net7.0\Task_3.csproj.AssemblyReference.cache
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task_57_Частотный _словарь\obj\Debug\net7.0\Task_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task_57_Частотный _словарь\obj\Debug\net7.0\Task_3.AssemblyInfoInputs.cache
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task_57_Частотный _словарь\obj\Debug\net7.0\Task_3.AssemblyInfo.cs
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task_57_Частотный _словарь\obj\Debug\net7.0\Task_3.csproj.CoreCompileInputs.cache
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task_57_Частотный _словарь\bin\Debug\net7.0\Task_3.exe
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task_57_Частотный _словарь\bin\Debug\net7.0\Task_3.deps.json
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task_57_Частотный _словарь\bin\Debug\net7.0\Task_3.runtimeconfig.json
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task_57_Частотный _словарь\bin\Debug\net7.0\Task_3.dll
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task_57_Частотный _словарь\bin\Debug\net7.0\Task_3.pdb
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task_57_Частотный _словарь\obj\Debug\net7.0\Task_3.dll
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task_57_Частотный _словарь\obj\Debug\net7.0\refint\Task_3.dll
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task_57_Частотный _словарь\obj\Debug\net7.0\Task_3.pdb
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task_57_Частотный _словарь\obj\Debug\net7.0\Task_3.genruntimeconfig.cache
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task_57_Частотный _словарь\obj\Debug\net7.0\ref\Task_3.dll

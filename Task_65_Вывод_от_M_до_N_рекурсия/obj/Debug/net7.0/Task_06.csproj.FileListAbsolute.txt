@@ -1,0 +1,15 @@
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task_65_Вывод_от_M_до_N_рекурсия\bin\Debug\net7.0\Task_06.exe
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task_65_Вывод_от_M_до_N_рекурсия\bin\Debug\net7.0\Task_06.deps.json
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task_65_Вывод_от_M_до_N_рекурсия\bin\Debug\net7.0\Task_06.runtimeconfig.json
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task_65_Вывод_от_M_до_N_рекурсия\bin\Debug\net7.0\Task_06.dll
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task_65_Вывод_от_M_до_N_рекурсия\bin\Debug\net7.0\Task_06.pdb
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task_65_Вывод_от_M_до_N_рекурсия\obj\Debug\net7.0\Task_06.csproj.AssemblyReference.cache
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task_65_Вывод_от_M_до_N_рекурсия\obj\Debug\net7.0\Task_06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task_65_Вывод_от_M_до_N_рекурсия\obj\Debug\net7.0\Task_06.AssemblyInfoInputs.cache
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task_65_Вывод_от_M_до_N_рекурсия\obj\Debug\net7.0\Task_06.AssemblyInfo.cs
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task_65_Вывод_от_M_до_N_рекурсия\obj\Debug\net7.0\Task_06.csproj.CoreCompileInputs.cache
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task_65_Вывод_от_M_до_N_рекурсия\obj\Debug\net7.0\Task_06.dll
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task_65_Вывод_от_M_до_N_рекурсия\obj\Debug\net7.0\refint\Task_06.dll
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task_65_Вывод_от_M_до_N_рекурсия\obj\Debug\net7.0\Task_06.pdb
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task_65_Вывод_от_M_до_N_рекурсия\obj\Debug\net7.0\Task_06.genruntimeconfig.cache
+C:\Users\asus.DESKTOP-C76C6GO\Desktop\Geekbrains\ДЗ\С#_23_10_2023\Task_65_Вывод_от_M_до_N_рекурсия\obj\Debug\net7.0\ref\Task_06.dll
